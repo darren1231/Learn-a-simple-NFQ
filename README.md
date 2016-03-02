@@ -1,4 +1,4 @@
-# Learn-a-simple-NFQ(neural fitted q iteration
+# Learn-a-simple-NFQ(neural fitted q iteration)
 A simple program to understand how NFQ work
 
 Neural fitted Q iteration
